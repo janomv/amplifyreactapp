@@ -1,6 +1,13 @@
 {
+  "hosting": {
+    "amplifyhosting": {
+      "service": "amplifyhosting",
+      "type": "cicd",
+      "lastPushTimeStamp": "2022-08-17T10:43:37.239Z"
+    }
+  },
   "auth": {
-    "amplifyreactapp2710fd38": {
+    "amplifyreactapp72d76704": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
